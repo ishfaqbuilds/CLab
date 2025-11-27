@@ -11,15 +11,15 @@ Track your finances in seconds — no spreadsheets required.
 
 #### Features
 - **User Management**
-  - Registration and login
+  1. Registration and login
 - **Finance Tracking**
-  - Balance tracking  
-  - Add income deposits  
-  - Record expenses  
-  - Net worth calculation
+  1. Balance tracking  
+  2. Add income deposits  
+  3. Record expenses  
+  4. Net worth calculation
 - **System**
-  - Credits display  
-  - Exit system  
+  1. Credits display  
+  2. Exit system  
 
 ---
 
