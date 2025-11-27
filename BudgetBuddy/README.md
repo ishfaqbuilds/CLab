@@ -64,13 +64,13 @@ README.md
 - Terminal input/output  
 ---
 #### Contributing
-**Contributions are welcome:**
+##### **Contributions are welcome:**
 - Fork the repo
 - Create a feature branch
 - Follow coding style (clang-format)
 - Submit a pull request
 
-#### For bugs or feature requests, please open an issue.
+##### For bugs or feature requests, please open an issue.
 ---
 #### License
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
