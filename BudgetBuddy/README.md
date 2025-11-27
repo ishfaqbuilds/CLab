@@ -11,8 +11,8 @@ This project runs fully in the terminal and includes:
 ## ⚡ How to Run
 ### 1. Clone the repo
 ```
-git clone https://github.com/ishfaqbuilds/BudgetBuddy.git
-cd BudgetBuddy
+git clone https://github.com/ishfaqbuilds/CLab.git
+cd CLab/BudgetBuddy
 ```
 ### 2. Compile the C code
 ```
