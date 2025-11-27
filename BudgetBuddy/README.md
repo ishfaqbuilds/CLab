@@ -1,8 +1,7 @@
 ### Budget Buddy (C Terminal)
 A beginner-friendly **personal finance tracker** built in C.  
 
-Budget Buddy helps you manage income, expenses, and net worth — all directly from your terminal.  
-Track your finances in seconds — no spreadsheets required.
+Budget Buddy helps you manage income, expenses, and net worth — all directly from your terminal. Track your finances in seconds — no spreadsheets required.
 
 ---
 
