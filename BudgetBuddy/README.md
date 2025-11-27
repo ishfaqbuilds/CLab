@@ -4,6 +4,7 @@
 ![Language: C](https://img.shields.io/badge/language-C-blue)
 
 A beginner-friendly **personal finance tracker** built in C.  
+
 Budget Buddy helps you manage income, expenses, and net worth — all directly from your terminal.  
 Track your finances in seconds — no spreadsheets required.
 
