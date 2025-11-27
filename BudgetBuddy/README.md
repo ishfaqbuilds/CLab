@@ -1,8 +1,4 @@
 ### Budget Buddy (C Terminal)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-![Language: C](https://img.shields.io/badge/language-C-blue)
-
 A beginner-friendly **personal finance tracker** built in C.  
 
 Budget Buddy helps you manage income, expenses, and net worth — all directly from your terminal.  
