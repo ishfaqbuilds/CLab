@@ -1,40 +1,29 @@
-# 💰 Budget Buddy (C Terminal)
-
+# 💵 Budget Buddy (C Terminal)
 A beginner-friendly **personal finance tracker** built using C.
-
 This project runs fully in the terminal and includes:
-
 - User registration and login  
 - Balance tracking  
 - Add income deposits  
 - Add expenses  
 - Net worth calculation  
 - Credits and exit system  
-
 ---
-
-## 🚀 How to Run
-
+## ⚡ How to Run
 ### 1. Clone the repo
 ```
 git clone https://github.com/ishfaqbuilds/BudgetBuddy.git
 cd BudgetBuddy
 ```
-
 ### 2. Compile the C code
 ```
 gcc main.c -o budget_buddy
 ```
-
 ### 3. Run the program
 ```
 ./budget_buddy
 ```
-
 ---
-
-## 📂 Project Structure
-
+## 📁 Project Structure
 ```
 BudgetBuddy/
 │── src/
@@ -45,11 +34,8 @@ BudgetBuddy/
      └── Expense_Sheet.txt
 README.md
 ```
-
 ---
-
-## 🧠 Concepts Used
-
+## 💡 Concepts Used
 - Structs for user data  
 - Arrays  
 - File handling  
@@ -57,17 +43,11 @@ README.md
 - Loops  
 - Conditional statements  
 - Terminal input/output  
-
 ---
-
-## 🤝 Contributing
-
+## 🤲 Contributing
 Feel free to fork and improve.  
 Pull requests are welcome.
-
 ---
-
-## 📜 License
-
+## 📄 License
 Licensed under the **MIT License**.  
 See the `LICENSE` file for details.
