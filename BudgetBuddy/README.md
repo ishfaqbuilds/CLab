@@ -43,6 +43,7 @@ BudgetBuddy/
      ├── Balance_Sheet.txt
      ├── Income_Sheet.txt
      └── Expense_Sheet.txt
+README.md
 ```
 
 ---
