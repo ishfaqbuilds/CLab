@@ -28,16 +28,16 @@ Budget Buddy helps you manage income, expenses, and net worth — all directly f
 - Linux/macOS terminal  
 
 ##### Installation
-**1. Clone The Repository**
+###### **1. Clone The Repository**
 ```
 git clone https://github.com/ishfaqbuilds/CLab.git
 cd CLab/BudgetBuddy
 ```
-**2. Compile The Source Code**
+###### **2. Compile The Source Code**
 ```
 gcc src/main.c -o budget_buddy
 ```
-**3. Run The Program**
+###### **3. Run The Program**
 ```
 ./budget_buddy
 ```
