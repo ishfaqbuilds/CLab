@@ -72,7 +72,7 @@ README.md
 - Follow coding style (clang-format)
 - Submit a pull request
 
-**For bugs or feature requests, please open an issue.**
+#### For bugs or feature requests, please open an issue.
 ---
 #### License
 This project is licensed under the **MIT License**.  
