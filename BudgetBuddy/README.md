@@ -16,7 +16,7 @@ cd CLab/BudgetBuddy
 ```
 ### 2. Compile the C code
 ```
-gcc main.c -o budget_buddy
+gcc src/main.c -o budget_buddy
 ```
 ### 3. Run the program
 ```
