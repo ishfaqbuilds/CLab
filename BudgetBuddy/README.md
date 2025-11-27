@@ -23,11 +23,11 @@ Budget Buddy helps you manage income, expenses, and net worth — all directly f
 
 #### Getting Started
 
-##### Prerequisites
+##### Prerequisites:
 - GCC (tested with version 11+)  
 - Linux/macOS terminal  
 
-##### Installation
+##### Installation:
 ###### **1. Clone The Repository**
 ```
 git clone https://github.com/ishfaqbuilds/CLab.git
