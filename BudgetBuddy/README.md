@@ -1,21 +1,35 @@
 ### Budget Buddy (C Terminal)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+![Language: C](https://img.shields.io/badge/language-C-blue)
+
 A beginner-friendly **personal finance tracker** built in C.  
-Budget Buddy helps you manage income, expenses, and net worth — all directly from your terminal.
+Budget Buddy helps you manage income, expenses, and net worth — all directly from your terminal.  
+Track your finances in seconds — no spreadsheets required.
 
 ---
 
 #### Features
-- User registration and login  
-- Balance tracking  
-- Add income deposits  
-- Record expenses  
-- Net worth calculation  
-- Credits and exit system  
+- **User Management**
+  - Registration and login
+- **Finance Tracking**
+  - Balance tracking  
+  - Add income deposits  
+  - Record expenses  
+  - Net worth calculation
+- **System**
+  - Credits display  
+  - Exit system  
 
 ---
 
 #### Getting Started
+
+##### Prerequisites
+- GCC (tested with version 11+)  
+- Linux/macOS terminal  
+
+##### Installation
 **1. Clone The Repository**
 ```
 git clone https://github.com/ishfaqbuilds/CLab.git
@@ -42,7 +56,7 @@ BudgetBuddy/
 README.md
 ```
 ---
-#### Concepts Demonstrated
+#### Learning Highlights
 - Structs for user data  
 - Arrays  
 - File handling  
@@ -55,7 +69,10 @@ README.md
 **Contributions are welcome:**
 - Fork the repo
 - Create a feature branch
+- Follow coding style (clang-format)
 - Submit a pull request
+
+For bugs or feature requests, please open an issue.
 ---
 #### License
 This project is licensed under the **MIT License**.  
